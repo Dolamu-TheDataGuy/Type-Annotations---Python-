@@ -66,3 +66,5 @@ mypy <name of python file>
 ```
 
 You can find the solutions [here](https://github.com/Dolamu-TheDataGuy/Type-Annotations---Python-/blob/master/Basic_Types/type_test_solution.py).
+
+You can find the slide to the talk [here](https://www.canva.com/design/DAGHPvvyEO8/9p5OqO5p2SyjxUeXgYRl4g/edit?utm_content=DAGHPvvyEO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
