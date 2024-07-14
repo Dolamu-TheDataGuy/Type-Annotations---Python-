@@ -58,3 +58,11 @@ pip install mypy
 ```
 
 ### Code Sample
+To practise type annotation, you can annotate the code in this [link](https://github.com/Dolamu-TheDataGuy/Type-Annotations---Python-/blob/master/Basic_Types/type_test.py).
+
+Then run the following command in the terminal to statically type check your code:
+```
+mypy <name of python file>
+```
+
+You can find the solutions [here](https://github.com/Dolamu-TheDataGuy/Type-Annotations---Python-/blob/master/Basic_Types/type_test_solution.py).
