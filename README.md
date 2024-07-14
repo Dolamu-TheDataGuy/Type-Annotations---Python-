@@ -34,11 +34,11 @@ For this talk, I would be using Visual Studio Code. To configure type checks on 
 
 1. Open the `Settings` tab at the left bottom corner of your screen and click on settings.
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 2. On the search bar, search for `Type Check Mode`, you will find the `Python > Analysis: Type Checking Mode` there. Set it to `standard`, it is always `off` by default.
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 
 ## Setting up Virtual Environment
@@ -49,5 +49,12 @@ python -m venv types
 
 Then enter the virtual environment with the following command:
 ```
-source bin
+source type/bin/activate
 ```
+
+## Install static type checker mypy
+```
+pip install mypy
+```
+
+### Code Sample
